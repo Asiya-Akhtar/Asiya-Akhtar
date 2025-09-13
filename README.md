@@ -72,3 +72,4 @@
 - 📧 Email: [asiya17112000@gmail.com](mailto:asiya17112000@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/asiya-akhtar](https://www.linkedin.com/in/asiya-akhtar)  
 - 💻 GitHub: [github.com/Asiya-Akhtar](https://github.com/Asiya-Akhtar)
+- Resume: Akhtar_Asiya_ResumeCV.pdf
