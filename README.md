@@ -14,7 +14,7 @@
 ## 👩‍💻 About Me  
 
 🎓 Computer Science graduate with focus on **Computer Vision, IoT, and Intelligent Agents**.  
-💼 Currently working as **Agentic & Robotic AI Engineer** at NTU, Faisalabad.  
+💼 Currently working as **Agentic & Robotic AI Engineer** at PIAIC, Faisalabad.  
 📚 Passionate about **Face & Emotion Recognition, Object Detection, Workflow Automation**.  
 💡 Strong believer in research, innovation, and building **smart AI-driven systems**.  
 🌱 Constantly learning & exploring cutting-edge **AI/ML frameworks & edge technologies**.  
