@@ -11,7 +11,7 @@
 
 ---
 
-## 👩‍💻 About Me  
+## About Me  
 
 🎓 Computer Science graduate with focus on **Computer Vision, IoT, and Intelligent Agents**.  
 💼 Currently working as **Agentic & Robotic AI Engineer** at PIAIC, Faisalabad.  
@@ -21,7 +21,7 @@
 
 ---
 
-## 🚀 Featured Projects  
+## Featured Projects  
 
 🔐 **[Automated Gate Using Face Recognition](#)** – ESP32-CAM IoT access control system with real-time face auth.  
 🎯 **[Object Detection Benchmarking](#)** – Compared YOLO, SSD & Faster R-CNN on custom datasets.  
@@ -31,7 +31,7 @@
 
 ---
 
-## 🎓 Certifications  
+## Certifications  
 
 📜 [Java for Android](https://coursera.org/share/54f02c634874205c03fa73bbfec95541)  
 📜 [HTML, CSS, and Javascript for Web Developers](https://coursera.org/share/12dac2dd9654d3ef7897b3f89daf0451)  
@@ -42,7 +42,7 @@
 
 ---
 
-## 🛠️ Languages & Tools  
+## Languages & Tools  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,react,html,css,tensorflow,opencv,keras,git,wordpress,vscode" />
@@ -50,7 +50,7 @@
 
 ---
 
-## 📊 GitHub Analytics  
+## GitHub Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Asiya-Akhtar&show_icons=true&theme=radical" alt="stats" />
@@ -60,7 +60,7 @@
 
 ---
 
-## 🌐 Connect with Me  
+## Connect with Me  
 
 <p align="center">
   <a href="https://linkedin.com/in/asiya-akhtar-33025026b">
